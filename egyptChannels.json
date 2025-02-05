@@ -25,7 +25,111 @@
 "PopDes": "",
 "PopBtnName": "",
 "adsClick": ""
-}
+},
+{
+"channelName": "قناة صفا",
+"channelImage": "https://www.elahmad.com/tv/mobiletv/images/safatv.jpg",
+"description":" هي قناة فضائية إسلامية حوارية، تُبَث باللغة العربية، موجهة إلى الناطقين بالعربية حول العالم، تقوم القناة ببث العديد من البرامج الحوارية بين مذهب أهل السنة والجماعة ومذهب الشيعة الإمامية، عن طريق العديد من البرامج الحوارية والإخبارية.",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12034","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "قناة أزهري",
+"channelImage": "https://www.elahmad.com/tv/mobiletv/images/azharitv.jpg",
+"description":"هي قناة إسلامية خاصة تهدف إلى نشر رسالة الأزهر إلى أكثر من مليار مسلم. والقناة في مجملها باللغة العربية كبرامج لشيخ الأزهر السابق د.محمد سيد طنطاوي والباقي باللغتين الإنجليزية والفرنسية ثم بعد ذلك باللغات الأخرى. وتسعى القناة لتوسيع خططها بإطلاق صحيفة ومحطة إذاعية ومدونات وخدمات هاتف محمول عام 2010.",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 11765","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : عمودي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+},
+{
+"channelName": "",
+"channelImage": "",
+"description":"",
+"frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12054","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
+"BannerImage": "",
+"PopImage": "",
+"BannerClick": "",
+"PopClick": "",
+"PopDes": "",
+"PopBtnName": "",
+"adsClick": ""
+}  
   
 ]
 }

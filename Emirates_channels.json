@@ -2,7 +2,7 @@
 "channels_data": [
 {
 "channelName": "قناة العربية الحدث",
-"channelImage": " https://s.lahamag.com/storage/attachments/20/1411475271.951989.jpg/r/640/1411475271.951989.jpg",
+"channelImage": "https://s.lahamag.com/storage/attachments/20/1411475271.951989.jpg/r/640/1411475271.951989.jpg",
 "description":"هي من القنوات الإخبارية الشهيرة التي يهتم الكثيرين بالبحث عنها في الأيام الأخيرة، لمتابعة أهم الأخبار على مستوى العالم بالتحديد في المنطقة العربية التي تشهدها الوطن العربي",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 11747","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : عمودي"],  
 "BannerImage": "",
@@ -28,7 +28,7 @@
 },
 {
 "channelName": " قناة CNBC عربية",
-"channelImage": " https://e7.pngegg.com/pngimages/348/474/png-clipart-cnbc-arabiya-logo-of-nbc-television-channel-cnbc-asia-others-television-text.png",
+"channelImage": "https://e7.pngegg.com/pngimages/348/474/png-clipart-cnbc-arabiya-logo-of-nbc-television-channel-cnbc-asia-others-television-text.png",
 "description":"قناة العربية الاقتصادية واحدة من أبرز القنوات الإخبارية في العالم العربي، حيث تحظى بشعبية واسعة بين الجماهير بسبب موثوقية تقاريرها ومصادر أخبارها وموضوعيتها",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 11785","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 3/4","الاستقطاب : عمودي"],  
 "BannerImage": "",
@@ -80,7 +80,7 @@
 },
 {
 "channelName": "قناة دبي وان ",
-"channelImage": " https://cdn.elwatannews.com/watan/840x473/20538811591625766299.jpg",
+"channelImage": "https://cdn.elwatannews.com/watan/840x473/20538811591625766299.jpg",
 "description":"واحدة من القنوات الرائدة التي توفر تنوعا غنيا من البرامج والأفلام والمسلسلات، مما جعلها الخيار المفضل للعديد من المشاهدين بفضل ما تتمتع به من اختلاف في محتواها وجودة البث  ",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12322","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : عمودي"],  
 "BannerImage": "",
@@ -119,7 +119,7 @@
 },
 {
 "channelName": " قناة إم بي سي 3 ",
-"channelImage": " https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/600px-Mbc_3_Logo_TV_Channels_Official.jpg",
+"channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/600px-Mbc_3_Logo_TV_Channels_Official.jpg",
 "description":"هي إحدى القنوات التابعة لمجموعة إم بي سي الإعلامية، وهي موجهة خصيصاً للأطفال والمراهقين ",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 11470","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : عمودي"],  
 "BannerImage": "",
@@ -132,7 +132,7 @@
 },
 {
 "channelName": " قناة إم بي سي 4 ",
-"channelImage": " https://e7.pngegg.com/pngimages/444/738/png-clipart-television-show-news-mbc-4-logo-product-design-mbc-3-angle-white.png",
+"channelImage": "https://e7.pngegg.com/pngimages/444/738/png-clipart-television-show-news-mbc-4-logo-product-design-mbc-3-angle-white.png",
 "description":"  هي إحدى القنوات التابعة لمجموعة إم بي سي الإعلامية، وقد تم إطلاقها في عام 2005. تعتبر القناة موجهة بشكل أساسي إلى الجمهور العربي",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد :11470 ","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : عمودي"],
 "BannerImage": "",
@@ -145,7 +145,7 @@
 },
 {
 "channelName": "قناة نور دبي",
-"channelImage": " https://admango.cdn.mangomolo.com/analytics/uploads/71/6638765c15.png",
+"channelImage": "https://admango.cdn.mangomolo.com/analytics/uploads/71/6638765c15.png",
 "description":"تعتبر قناة نور دبي واحدة من روافد الإعلام التي تسعى إلى نقل الواقع بشكل شامل ومتوازن، حيث تقوم بتغطية الأحداث الهامة والقضايا الراهنة بشكل دقيق ومهني",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12226","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح :3/4","الاستقطاب : أفقي"],  
 "BannerImage": "",
@@ -197,7 +197,7 @@
 },
 {
 "channelName": "قناة أبو ظبي بريميم ",
-"channelImage": "  https://archive.org/download/2025-02-14-t-130637.390/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20-%202025-02-14T130637.390.png",
+"channelImage": "https://archive.org/download/2025-02-14-t-130637.390/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20-%202025-02-14T130637.390.png",
 "description":" تعتبر واحدة من أبرز القنوات الترفيهية التي تجمع بين المحتوى الراقي والتقنيات الحديثة لتقديم تجربة مشاهدة استثنائية. بفضل برامجها الحصرية والمتنوعة التي تشمل الأفلام والمسلسلات والبرامج الترفيهية المميزة  ",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد :11411","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 3/4","الاستقطاب : أفقي"],  
 "BannerImage": "",
@@ -223,7 +223,7 @@
 },
 {
 "channelName": "قناة الآن",
-"channelImage": "  https://wpcdn.alaan.tv/2020/09/28/20200928-1601289938009-original.png",
+"channelImage": "https://wpcdn.alaan.tv/2020/09/28/20200928-1601289938009-original.png",
 "description":"تعتبر قناة الآن من بين القنوات المعروفة بنهجها المحايد واهتمامها الدائم بالجمهور، حيث أن شعارها لأنك الأكثر ضرورة يظهر التزامها بتقديم الأخبار الحصرية على نحو فوري، ولا تقتصر القناة على عرض البرامج الإخبارية فحسب، بل تقدم أيضا مجموعة متنوعة من المسلسلات والأعمال الدرامية والترفيهية،",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 11277","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 2/3","الاستقطاب : عمودي"],  
 "BannerImage": "",
@@ -236,7 +236,7 @@
 },
 {
 "channelName": " قناة عجمان ",
-"channelImage": " https://i.ytimg.com/vi/ubxL79zHdnU/maxresdefault.jpg",
+"channelImage": "https://i.ytimg.com/vi/ubxL79zHdnU/maxresdefault.jpg",
 "description":"إنها قناة إماراتية متميزة تهتم بتقديم المحتوى المتنوع والهادف الذي عمل على جذب أعداد كبير جدًا من المشاهدين من مختلف أنحاء الوطن العربي",
 "frequencyData":["معامل الترميز : 27500","القمر الصناعي : نايل سات","التردد : 12226","معدل تصحيح الخطأ: ٢٢٥","معامل التصحيح : 5/6","الاستقطاب : أفقي"],  
 "BannerImage": "",

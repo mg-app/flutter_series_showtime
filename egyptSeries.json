@@ -1,47 +1,698 @@
 {
-"series_data": [
-{
-"seriesName": "المداح 5",
-"seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/mada7.jpg",
-"description":"في الموسم الخامس، يواصل (صابر المداح) حروبه التي يخوضها ضد الجن، ويسعى بكل عزمه إلى التغلب عليهم والتخلص من شرورهم كما اعتاد مسبقًا، كما تشهد حياته الشخصية العديد من التطورات المختلفة.",
-"timeShow": [{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"},{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"}],
-"replayShow": [{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"},{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"}],
-"BannerImage": "",
-"PopImage": "",
-"BannerClick": "",
-"PopClick": "",
-"PopDes": "",
-"PopBtnName": "",
-"adsClick": "https://www.google.com/"
-},
-{
-"seriesName": "فهد البطل",
-"seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/fahd.jpg",
-"description":"هذا المسلسل يتحدث عن أحداث واقعية مثيره",
-"timeShow": [{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"},{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"}],
-"replayShow": [{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"},{"channelName":"روتانا","channelLogo":"https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png","urlAction":"https://www.google.com","time":"2 pm"}],
-"BannerImage": "",
-"PopImage": "",
-"BannerClick": "",
-"PopClick": "",
-"PopDes": "",
-"PopBtnName": "",
-"adsClick": ""
-},
-{
-"seriesName": "حكيم باشا",
-"seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/hakeem.jpg",
-"description":"في إطار الجدعنة والرجولة يقدم مصطفي شعبان مسلسل واقعي يتحدث عن أحد الشخصيات الجدعة",
-"timeShow": [],
-"replayShow": [],
-"BannerImage": "",
-"PopImage": "",
-"BannerClick": "",
-"PopClick": "",
-"PopDes": "",
-"PopBtnName": "",
-"adsClick": ""
-} 
-  
-]
+    "series_data": [
+        {
+            "seriesName": "المداح 5",
+            "seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/mada7.jpg",
+            "description": "في الموسم الخامس، يواصل (صابر المداح) حروبه التي يخوضها ضد الجن، ويسعى بكل عزمه إلى التغلب عليهم والتخلص من شرورهم كما اعتاد مسبقًا، كما تشهد حياته الشخصية العديد من التطورات المختلفة.",
+            "timeShow": [
+                {
+                    "channelName": "مصر MBC قناة",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "",
+                    "time": ""
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "مصر MBC قناة",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "",
+                    "time": " pm"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "فهد البطل",
+            "seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/fahd.jpg",
+            "description": "هذا المسلسل يتحدث عن أحداث واقعية مثيره",
+            "timeShow": [
+                {
+                    "channelName": "قناة ON",
+                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2023/11/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-800x445-1.jpg",
+                    "urlAction": "",
+                    "time": "pm"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة ON",
+                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2023/11/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-800x445-1.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة ON",
+                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2023/11/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%88%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-800x445-1.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "حكيم باشا",
+            "seriesImage": "https://ia904502.us.archive.org/9/items/fahd_20250130/hakeem.jpg",
+            "description": "في إطار الجدعنة والرجولة يقدم مصطفي شعبان مسلسل واقعي يتحدث عن أحد الشخصيات الجدعة",
+            "timeShow": [
+                {
+                    "channelName": "قناة CBC ",
+                    "channelLogo": "https://mediaaws.almasryalyoum.com/news/verylarge/2018/06/14/821471_0.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة الحياة",
+                    "channelLogo": "https://media.gemini.media/img/large/2016/5/19/2016_5_19_16_28_43_817.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "سيد الناس",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_320x_fbabc9c5e5c3428b051ce01bb8217d1ecacc3dbcca0ebdb12b67a577ce057a17.jpg",
+            "description": "إطار اجتماعي تشويقي، حيث يكشف عن حياة إحدى العائلات الكبيرة، التي تحدث لها مفاجأة غير متوقعة للبطل",
+            "timeShow": [
+                {
+                    "channelName": "مصر MBC قناة ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  9:30 pm"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "مصر  2 MBC قناة",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MBC_MASR_2.jpg/280px-MBC_MASR_2.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "1:30 am"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "إش إش",
+            "seriesImage": "https://i.ytimg.com/vi/nXfdCFpFJ-Q/sddefault.jpg",
+            "description": "في إمارة درامي يعكس روح الأجواء الشعبية، بالإضافة إلى مجموعة من الأحداث التشويقية",
+            "timeShow": [
+                {
+                    "channelName": "مصر MBC قناة  ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "إخواتي ",
+            "seriesImage": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/9361948071738081013.jpg",
+            "description": "تدور أحداثه في إطار 15 حلقة، حيث ينتمي إلى الدراما القصيرة",
+            "timeShow": [
+                {
+                    "channelName": "قناة dmc ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "قلبي ومفتاحه",
+            "seriesImage": "https://img.youm7.com/large/20250210105506556.jpg",
+            "description": "تدور أحداثه فى اطار اجتماعي تشويقي حول الحياة الزوجية وكيفية تخطي مشكلاتها، وكيف يمكن للصدفة أن تغير الحياة بأكلمها وأن الحب ليس له موعد أو زمان محدد.",
+            "timeShow": [
+                {
+                    "channelName": "قناة ON ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "الغاوي ",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_5bad8c0f58b77a9b66b3b622ddfaed7db75d45287dff7dc0ed799a028165b9b8.jpg",
+            "description": "  رجل ينحدر من إحدى المناطق الشعبية ويتعرض  شمس للظلم الشديد مما يغير مجرى حياته بالكامل ومع مرور الوقت يصبح شخصية محورية في منطقته ويكتسب شهرة واسعة بوصفه بطلًا شعبيًا.",
+            "timeShow": [
+                {
+                    "channelName": "قناة ON ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "أهل الخطايا",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_3bd0591ee514e29f967e89c05a1e1119bb3abcd3e21ef4e83f92639c6adc94a3.jpg",
+            "description": "يتناول المسلسل  العديد من القضايا والجرائم الحقيقة في قالب درامى خاص للمشاهد عبر الشاشة في رمضان 2025 فيتناول جرائم خرجت من رحم الواقع في 15 حلقة",
+            "timeShow": [
+                {
+                    "channelName": "قناة النهار ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/7796734211529419140.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "الكابتن ",
+            "seriesImage": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/12348635761738585119.jpg",
+            "description": "تدور أحداثه في إطار كوميدي تشويقي حول شخصية كابتن طيار يجسدها أكرم حسني يتسبب في عطل بالطائرة ما يؤدي إلى سقوطها، ليكون هو الناجي الوحيد من الحادث",
+            "timeShow": [
+                {
+                    "channelName": "قناة DMC ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "العتاولة 2",
+            "seriesImage": "https://mediaaws.almasryalyoum.com/news/medium/2025/02/04/2599639_0.png",
+            "description": "من أهم وأفضل المسلسلات التي تحتوي على مشاهد الدراما والكوميديا في رمضان 2025",
+            "timeShow": [
+                {
+                    "channelName": "قناة MBC مصر ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "كامل العدد 3",
+            "seriesImage": "https://media.filfan.com/NewsPics/FilfanNew/large/494262_0.jpg",
+            "description": "يتميز الجزء الثالث بمواصلة تقديم الدراما الاجتماعية اللايت التي تناقش مشاكل الشباب والمراهقين إضافة إلى تحديات تربية الأبناء في ظل الحياة الأسرية المعقدة",
+            "timeShow": [
+                {
+                    "channelName": "قناة on ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "جودر 2",
+            "seriesImage": "https://cdn.al-ain.com/lg/images/2025/2/12/206-221930-7251365711708882893.jpg",
+            "description": " مستوحى من حكايات ألف ليلة وليلة ",
+            "timeShow": [
+                {
+                    "channelName": "قناة on ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "وتقابل حبيب",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_55b429fce6ad2b5981cac3c8f6b84717512c7f6019d4d7f6d54f0ba950a7c3c1.jpg",
+            "description": "يتناول المسلسل  العديد من القضايا والجرائم الحقيقة في قالب درامى خاص للمشاهد عبر الشاشة في رمضان 2025 فيتناول جرائم خرجت من رحم الواقع في 15 حلقة",
+            "timeShow": [
+                {
+                    "channelName": "قناة dmc ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة on ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة cbc ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/1225884291615755059.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "أثينا",
+            "seriesImage": "https://img.youm7.com/large/202502090938163816.jpg",
+            "description": "تدور أحداث المسلسل حول انتحار شقيقة البطلة في ظروف غامضة، ما يدفعها لبدء رحلة بحث مكثفة لمعرفة السبب الحقيقي وراء هذا الحادث",
+            "timeShow": [
+                {
+                    "channelName": "قناة ",
+                    "channelLogo": "https://",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "ولاد الشمس",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_81e616b996a020fc0a682274443da77705bcbe526f5803bc774e9be920086a72.jpg",
+            "description": " فى إطار درامى اجتماعى، حول قصة صديقين نشآ معا منذ الطفولة في دار للأيتام، ويستعرض رحلتهما في الحياة التي قادتهما إلى الدخول في عالم السرقة والجرائم.",
+            "timeShow": [
+                {
+                    "channelName": "قناة cbc ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/1225884291615755059.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة DMC ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة ON ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة الحياة",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/300x150/18586401031463576632.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "النص ",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_38bbd4d23f50fcdcf164ca9ad8c2976aecc32b9591a6757b2ac696830160407f.jpg",
+            "description": " تدور أحداثه في إطار تشويقي كوميدي، حول رجل يدعي عبد العزيز النُص",
+            "timeShow": [
+                {
+                    "channelName": "قناة ON ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "80 باكو",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_0045f56a17234990ce9b474b51bfb7d7fc550aa189d2b290962895bb36edea76.jpg",
+            "description": " تدور أحداثه في إطار تشويقي كوميدي",
+            "timeShow": [
+                {
+                    "channelName": "قناة مصر mbc ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "شهادة معاملة أطفال",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_798fc3205288500ca48e278c4c0cdd423ce65405f89cde9c82122a9148d78c76.jpg",
+            "description": " سوف يعيش المشاهد مغامرات عبد الستار الكف فى إطار اجتماعى كوميدى والصراعات التى سوف يخوضها هنيدى خلال أحداث المسلسل",
+            "timeShow": [
+                {
+                    "channelName": "قناة cbc ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/1225884291615755059.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "حسبة عمري",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_90491ca5e2504837b6412888f9916bbda0f55609f9ae3df938e6682c8836eaa3.jpg",
+            "description": "تدور أحداث المسلسل حول مجموعة من القضايا الاجتماعية المتعلقة بالمرأة، مثل الطلاق وحقوق الزوجة بعد الطلاق، بالإضافة إلى قضايا قانونية تتعلق بحقوق المرأة",
+            "timeShow": [
+                {
+                    "channelName": "قناة DMC ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "شباب امرأة",
+            "seriesImage": "https://cdn.elwatannews.com/watan/300x150/16293610771738825809.jpg",
+            "description": "  حيث تعود القصة الكلاسيكية التي سبق تقديمها في فيلم شهير بنفس الاسم، لكن هذه المرة برؤية درامية حديثة تناسب العصر",
+            "timeShow": [
+                {
+                    "channelName": "قناة النهار ",
+                    "channelLogo": "https://img.youm7.com/large/6201652254263741.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة هي",
+                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2024/02/%D9%87%D9%8A.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "عايشة الدور ",
+            "seriesImage": "https://www.vetogate.com/Upload/libfiles/532/0/689.jpg",
+            "description": " تجسد الفنانة دنيا سمير غانم شخصية عايشة، والتي تجد نفسها فاقدة للشغف بعدما انفصلت عن والدها، وتعيش حياة بائسة، ولكن تنقلب حياتها بشكل مفاجئ",
+            "timeShow": [
+                {
+                    "channelName": "قناة ON ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "نص الشعب اسمه محمد",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_702d9f3afad7228fb6ba8c53e65b07e4a09eb2ed7b0eca1e8359f8d8547e1140.jpg",
+            "description": "تدور أحداثه في قالب درامي مع الكوميديا",
+            "timeShow": [
+                {
+                    "channelName": "قناة مصر mbc ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "منتهى الصلاحية",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_27e9a3cdf69b3a591552aba6ad16e293d826c6c64261b1ba93584abbbc8613d5.jpg",
+            "description": "تتناول أحداث المسلسل قصة موظف بنك يجسد دوره الفنان محمد فراج، حيث تتشابك حياته مع شخصيات مختلفة تسلط الضوء على قضايا اجتماعية متنوعة في إطار يجمع بين الدراما والإثارة",
+            "timeShow": [
+                {
+                    "channelName": "قناة مصر mbc ",
+                    "channelLogo": "https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/15031-1456_import.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "لام شمسية ",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_97c102385dcbfa9643f8eb37ab2bddf97e1a9f77ef10b028510345e7153f9518.jpg",
+            "description": " قصة عمل فريد من نوعه بين الاثارة والتشويش، حيث يناقش المسلسل العديد من المشاكل والضغوط النفسية التي يمر بها الأطفال، والحالة التي يصلون إليها بسبب التنمر",
+            "timeShow": [
+                {
+                    "channelName": "قناة dmc ",
+                    "channelLogo": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/17806864821579326950.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة الحياة ",
+                    "channelLogo": "https://img.3ain.net/Slider1/52220170703110530530.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "قناة on ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "ظلم المصطبة",
+            "seriesImage": "https://img.youm7.com/ArticleImgs/2025/2/4/264912-%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D8%AA%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D9%84%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B8%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D8%A8%D8%A9.jpg",
+            "description": "العمل ينتمي إلى الدراما الاجتماعية، والذي يسلط الضوء على العديد من القضايا الاجتماعية في الأرياف والتقاليد العرفية التي تسيطر على المجتمع الريفي من خلال قصص وحكايات إنسانية ورومانسية مشوقة.",
+            "timeShow": [
+                {
+                    "channelName": "قناة الحياة ",
+                    "channelLogo": "https://img.3ain.net/Slider1/52220170703110530530.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "قهوة المحطة",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_737e094f9fcd273c32eb88395227d3ee02cf385c5b65be9e82cfeaef4ac9abdb.jpg",
+            "description": " وينتمي المسلسل إلى نوعية الأعمال المكونة من 15 حلقة، ويتميز بأسلوب سردي مشوق يجمع بين الجوانب الاجتماعية والتشويقية",
+            "timeShow": [
+                {
+                    "channelName": "قناة cbc ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/1225884291615755059.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "عقبال عندكوا",
+            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_24aa48c42000bc94cd7496bce80d4e8d3d5893e5f284e931e7d4ac7662d44ddb.jpg",
+            "description": " في إطار كوميدي، وحلقات متصلة منفصلة تدور أحداث المسلسل حول استعداد سها وفادي للزواج، ووقوعهما في العديد المشاكل قبل الزفاف، ومحاولة حل هذه المشاكل قبل الوصول إلى حافة الانفصال",
+            "timeShow": [
+                {
+                    "channelName": "قناة cbc ",
+                    "channelLogo": "https://cdn.elwatannews.com/watan/840x473/1225884291615755059.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "أشغال شقة جدًا",
+            "seriesImage": "https://media.almsryalaan.com/2025/2/large/1801806560813202502150716571657.jpg",
+            "description": " في إطار كوميدي",
+            "timeShow": [
+                {
+                    "channelName": "قناة ",
+                    "channelLogo": "https://",
+                    "urlAction": "https://www.google.com",
+                    "time": "  pm"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        }
+    ]
 }
+               
+
+
+

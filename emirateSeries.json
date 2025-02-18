@@ -12,7 +12,14 @@
                     "time": ""
                 }
             ],
-            "replayShow": []
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "وطن عمري",
@@ -26,7 +33,14 @@
                     "time": "pm"
                 }
             ],
-         "replayShow": []
+         "replayShow": [],
+         "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""   
 
         },
         {
@@ -48,7 +62,14 @@
                     "urlAction": "https://www.google.com",
                     "time": "2 pm"
                 }
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "شغاب",
@@ -69,21 +90,42 @@
                     "urlAction": "https://www.google.com",
                     "time": "1:30 am"
                 }
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "وش سعد",
             "seriesImage": "https://media.elbalad.news/ArticleUpload/2025/1/25/IMG-20250125-WA0121_867_090844.jpg",
             "description": "في إطار قصة درامية اجتماعية ذات طابع كوميدي تدور أحداث قصة مسلسل وش سعد حول رجل إماراتي يأتي إلى مصر من أجل إنهاء بعض الأعمال وهو مسلسل مصري إماراتي",
             "timeShow": [],
-            "replayShow": []
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "الباء تحتها نقطة ",
             "seriesImage": "https://mediaaws.almasryalyoum.com/news/medium/2024/12/02/2548219_0.png",
             "description": " في إطار دراما كوميدية تستعرض قصة مسلسل الباء تحتها نقطة قضية محو الأمية في الإمارات التي تمت تحت قيادة الشيخ زايد بن سلطان آل نهيان بأواخر الستينيات وحتى أوائل السبعينيات من القرن الماضي",
             "timeShow": [],
-            "replayShow": []
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "السيرك ",
@@ -97,7 +139,14 @@
                     "time": "  pm"
                 }
             ],
-            "replayShow": []
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         }
     ]
 }

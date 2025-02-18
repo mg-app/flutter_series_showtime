@@ -673,14 +673,7 @@
             "seriesName": "أشغال شقة جدًا",
             "seriesImage": "https://media.almsryalaan.com/2025/2/large/1801806560813202502150716571657.jpg",
             "description": " في إطار كوميدي",
-            "timeShow": [
-                {
-                    "channelName": "قناة ",
-                    "channelLogo": "https://",
-                    "urlAction": "https://www.google.com",
-                    "time": "  pm"
-                }
-            ],
+            "timeShow": [],
             "replayShow": [],
             "BannerImage": "",
             "PopImage": "",

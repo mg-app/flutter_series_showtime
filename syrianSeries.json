@@ -240,7 +240,14 @@
                     "time": "  pm"
                 }
             ],
-            "replayShow": []
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "seriesName": "دوار شمالي - مسار إجباري ",

@@ -11,7 +11,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب :عمودي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة اليمن الفضائية",
@@ -24,7 +31,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 3/4",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة بلقيس",
@@ -37,7 +51,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 7/8",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة اليمن اليوم",
@@ -50,7 +71,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 3/4",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة سهيل",
@@ -63,7 +91,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": " قناة السعيدة",
@@ -76,7 +111,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة المسيرة",
@@ -89,7 +131,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": " قناة عدن ",
@@ -102,7 +151,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": " قناة عدن المستقلة",
@@ -115,7 +171,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب :أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة حضرموت",
@@ -128,7 +191,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة المغترب اليمني ",
@@ -141,7 +211,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 7/8",
                 "الاستقطاب : عمودي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "  قناة يمن شباب ",
@@ -154,7 +231,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة اللحظة ",
@@ -167,7 +251,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح :5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة جيل المستقبل  ",
@@ -180,7 +271,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : رأسي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "  قناة اليمنية",
@@ -193,7 +291,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح :5/6",
                 "الاستقطاب : رأسي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة الساحات",
@@ -206,7 +311,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 7/8",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة يمن الوثائقية ",
@@ -219,7 +331,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 7/8",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "  قناة المهرية",
@@ -232,7 +351,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة الغد المشرق",
@@ -245,7 +371,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : رأسي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة الهوية ",
@@ -258,7 +391,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 7/8",
                 "الاستقطاب : رأسي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "  قناة الجمهورية",
@@ -271,7 +411,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 6/5",
                 "الاستقطاب : رأسي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         },
         {
             "channelName": "قناة سبأ",
@@ -284,7 +431,14 @@
                 "معدل تصحيح الخطأ: ٢٢٥",
                 "معامل التصحيح : 5/6",
                 "الاستقطاب : أفقي"
-            ]
+            ],
+             "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
         }
     ]
 }

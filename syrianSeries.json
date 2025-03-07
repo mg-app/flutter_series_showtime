@@ -2,17 +2,24 @@
     "series_data": [
         {
             "seriesName": "نسمات أيلول",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_2c6af69afba8b6b6f4aa14b73300e912ec1a53f2c80ae689325beb6c97874af1.jpg",
+            "seriesImage": "https://archive.org/download/290958/__ia_thumb.jpg",
             "description": " تدور أحداث المسلسل في إحدى القرى الريفية السورية، ويتناول العلاقات الإنسانية وهموم سكان الريف، والقضايا والمشكلات اليومية للشباب وكبار السن وما يواجهونه من تحديات حياتية مختلفة، في إطار كوميدي خفيف",
             "timeShow": [
                 {
                     "channelName": "قناة لنا السورية",
                     "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
                     "urlAction": "",
-                    "time": ""
+                    "time": "6:00 مساء"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة لنا السورية",
+                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "1:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -23,23 +30,24 @@
         },
         {
             "seriesName": "قطع وريد",
-            "seriesImage": "https://cdn.sbisiali.com/news/images/e6a983e3-6457-4ef7-922f-9c4d19dcb710.jpg",
+            "seriesImage": "https://archive.org/download/maxresdefault-39/__ia_thumb.jpg",
             "description": " في إطار بوليسي تشويقي، حيث تبدأ القصة بجريمة قتل غامضة تحدث في قرية “المفرق” في دمشق",
             "timeShow": [
-                {
-                    "channelName": "سوريا دراما",
-                    "channelLogo": " https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
-                    "urlAction": "",
-                    "time": "pm"
-                },
                 {
                     "channelName": "قناة لنا السورية",
                     "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
                     "urlAction": "",
-                    "time": ""
+                    "time": "8:30 مساء"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة لنا السورية",
+                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "10:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -50,23 +58,25 @@
         },
         {
             "seriesName": "السبع",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_689b72cf3aa4ec7b186850a6d2610543949e00581b752d9ff12d92fac40df282.jpg",
+            "seriesImage": "https://archive.org/download/hq-720-30/__ia_thumb.jpg",
             "description": "في إطار درامي داخل بيئة افتراضية غامضة، حيث يتناول تفاصيل من حياة الغجر، ويسلط الضوء على صراعات بين العائلات بسبب المال والنفوذ. ",
             "timeShow": [
                 {
-                    "channelName": "قناة لنا السورية",
-                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "channelName": "قناة سما الفضائية",
+                    "channelLogo": "https://b2b-sy.com/uploads/sama_tv_1513278994.jpg",
                     "urlAction": "",
-                    "time": ""
+                    "time": "7:00 مساء"
                 },
+              
+            ],
+            "replayShow": [
                 {
-                    "channelName": "رؤيا ",
-                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2024/10/1_20241016_224510_%D9%A0%D9%A0%D9%A0%D9%A0.png",
+                    "channelName": "قناة سما الفضائية",
+                    "channelLogo": "https://b2b-sy.com/uploads/sama_tv_1513278994.jpg",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": "9:00 صباحا "
                 }
             ],
-            "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -77,44 +87,30 @@
         },
         {
             "seriesName": "ليالي روكسي",
-            "seriesImage": "https://www.trendreel.ae/UploadCache/libfiles/1/8/800x450o/859.png",
+            "seriesImage": "https://archive.org/download/2025-02-26-10-53-37-254810/__ia_thumb.jpg",
             "description": "تدور الأحداث حول كواليس صناعة أول فيلم سينمائي سوري في عام 1928 والصعوبات التي أحاطت به، كما يسلط الضوء على العديد من جوانب الحياة في تلك الفترة، خاصة مع وجود الاستعمار الفرنسي في سوريا.",
             "timeShow": [
                 {
-                    "channelName": "قناة لنا السورية",
-                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "channelName": "قناة سورايا دراما",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
                     "urlAction": "https://www.google.com",
                     "time": "  9:30 pm"
                 },
                 {
-                    "channelName": "قناة الظفرة ",
-                    "channelLogo": "https://pbs.twimg.com/profile_images/1605125341516808192/Yoet8A2r_400x400.jpg",
+                    "channelName": "قناة ",
+                    "channelLogo": " ",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": " 10:00 مساء"
                 }
             ],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "العهد",
-            "seriesImage": "https://alfanlive.com/wp-content/uploads/2025/02/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%B9%D9%87%D8%AF-2-709x1024.jpg",
-            "description": "تدور أحداث قصة مسلسل العهد عن الحارة في البيئة الشامية، وسوف يتناول العمل مرحلتين مختلفتين يوجد بينهما فاصل نحو 15 عامًا، ويتحدث العمل عن فترة قبل الاحتلال العثماني",
-            "timeShow": [
+            "replayShow": [
                 {
-                    "channelName": "قناة لنا السورية",
-                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "channelName": "قناة سورايا دراما",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": "11:00 صباحا "
                 }
             ],
-            "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -125,17 +121,24 @@
         },
         {
             "seriesName": "حبق ",
-            "seriesImage": "https://s.lahamag.com/storage/attachments/220/Snapinst-app_458084673_1158325515271719_2656545526587311130_n_1080_788239.jpg/r/640/Snapinst-app_458084673_1158325515271719_2656545526587311130_n_1080_788239.jpg",
+            "seriesImage": "https://archive.org/download/snapinst-app-458084673-1158325515271719-2656545526587311130-n-1080-788239/__ia_thumb.jpg",
             "description": "في إطار اجتماعي رومانسي تدور أحداث قصة مسلسل حبق عن فتاة تدعى سليمى تلعب دورها الفنانة كاريس بشار وهي تمتلك هبة من الله بقدرتها على معرفة مصائر البشر",
             "timeShow": [
                 {
-                    "channelName": "قناة أبوظبي ",
-                    "channelLogo": "https://www.marefa.org/w/images/2/2f/Abu_dhabi_tv.png",
+                    "channelName": "قناة سورايا دراما",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": " 9:00 مساء"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة سورايا دراما",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "9:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -146,80 +149,24 @@
         },
         {
             "seriesName": "تحت سابع أرض ",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_12b3a60d7ba44a816ddd1387abe92ffc73b612f601b402051f74c7274a380cdb.jpg",
+            "seriesImage": "https://archive.org/download/maxresdefault-40/__ia_thumb.jpg",
             "description": " في إطار اجتماعي عن الصراعات الاجتماعية والفساد داخل واحد من الأحياء الشعبية في دمشق",
             "timeShow": [
                 {
-                    "channelName": "قناة MBC ",
-                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2024/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D9%88%D8%A7%D8%AA-mbc._1280x720.jpg",
+                    "channelName": "قناة شامنا الفضائية ",
+                    "channelLogo": "https://www4.0zz0.com/2023/12/26/11/324171512.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": "10:30 مساء"
                 }
             ],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "سيوف العرب  ",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_320x_1fb81a07f805044e1eb0d5e4bfa311802fd1ee07f49311ffdda6ac612c011b76.jpg",
-            "description": " في إطار تاريخي، يرصد تاريخ السيف العربي على مر العصور، من خلال عمل ضخم يضم أبرز النجوم من سوريا وبمشاركة نجوم العديد من الدول.",
-            "timeShow": [
+            "replayShow": [
                 {
-                    "channelName": "التلفزيون القطري ",
-                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/f/f2/Qtv.jpg",
+                    "channelName": "قناة شامنا الفضائية",
+                    "channelLogo": "https://www4.0zz0.com/2023/12/26/11/324171512.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": "12:30 ظهرا "
                 }
             ],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "البطل",
-            "seriesImage": "https://cdn.al-ain.com/lg/images/2024/10/02/206-205823-460403563-571294471896762-7481614206711648784-n_700x400.jpg",
-            "description": "تدور أحداث مسلسل البطل في منطقة شعبية، وتتصارع الأحداث في إطار اجتماعي مشوق.",
-            "timeShow": [
-                {
-                    "channelName": "قناة MBC ",
-                    "channelLogo": "https://news.elsob7.com/wp-content/uploads/2024/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D9%88%D8%A7%D8%AA-mbc._1280x720.jpg",
-                    "urlAction": "https://www.google.com",
-                    "time": "  pm"
-                }
-            ],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "بنات الباشا  ",
-            "seriesImage": "https://alfanlive.com/wp-content/uploads/2025/02/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-2025-1024x1024.jpg",
-            "description": "في إطار دراما اجتماعية تجمع بين الإثارة والفانتازيا تدور أحداث قصة مسلسل بنات الباشا في أجواء يطغى عليها البيئة الشامية",
-            "timeShow": [
-                {
-                    "channelName": "قناة لنا السورية",
-                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
-                    "urlAction": "https://www.google.com",
-                    "time": "  pm"
-                }
-            ],
-            "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -234,13 +181,20 @@
             "description": "من أهم وأفضل المسلسلات التي تحتوي على مشاهد الدراما والكوميديا في رمضان 2025",
             "timeShow": [
                 {
-                    "channelName": "قناة  العربي 2  ",
-                    "channelLogo": "https://media0067.elcinema.com/tvguide/1382_1.png",
+                    "channelName": "قناة سما الفضائية",
+                    "channelLogo": "https://b2b-sy.com/uploads/sama_tv_1513278994.jpg",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": " 4:00 عصرا"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة سما الفضائية",
+                    "channelLogo": "https://b2b-sy.com/uploads/sama_tv_1513278994.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "6:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -253,85 +207,22 @@
             "seriesName": "دوار شمالي - مسار إجباري ",
             "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_197ab36be86e0921b1e520a12f39fc3d6602947fc09de42099afec0a2aa6f28a.jpg",
             "description": " في إطار دراما اجتماعية يرصد مسلسل دوار شمالي - مسار إجباري مجموعة من الأزمات التي تعرض لها الشعب خلال فترة التسعينيات من القرن الماضي",
-            "timeShow": [],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "سكرة الحب",
-            "seriesImage": "https://alfanlive.com/wp-content/uploads/2025/02/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B3%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8.jpg",
-            "description": " يتمحور المسلسل حول شخصيات من سوريا ولبنان تعيش مزيجا من الصراعات الداخلية النفسية متأثرة بالحرب التي عاشها البلدان",
-            "timeShow": [],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "يا أنا يا هي",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_a14ddb3b2d1c91133d1f512e23437aae70d4e41b9606376705b1313713199883.jpg",
-            "description": "تدور الأحداث في إطار كوميدي حول سيدة أردنية تمتلك منزلًا في دمشق وتخطط لبيعه",
             "timeShow": [
                 {
-                    "channelName": "قناة رؤيا ",
-                    "channelLogo": "https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/iMoPuU3u5qnqMsL.png",
+                    "channelName": "قناة لنا السورية",
+                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": "9:30 مساء"
                 }
             ],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "روز",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_bd3d331db094882f0a4b25c18f3a7e3fdc3c78dcaef3b1cfb08c3f8f6d1ceded.jpg",
-            "description": "الذي يحمل طابعًا بوليسيًا مشوّقًا يمتزج بالغموض والدراما الاجتماعية",
-            "timeShow": [],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "ثمن الخيانة",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_a5f1c1fbbf3601142ce32745ce4ddd4261870ee15756fe7fbc5d23f05f328bc9.jpg",
-            "description": " تورط ثلاثة أصدقاء متزوجين في جريمة قتل بسبب خيانتهم لزوجاتهم ثم يحاولون التخلص من آثارها سرًا، لكن يجدون أنفسهم غارقين في المصائب ويحاولون البحث عن مخرج",
-            "timeShow": [],
-            "replayShow": [],
-            "BannerImage": "",
-            "PopImage": "",
-            "BannerClick": "",
-            "PopClick": "",
-            "PopDes": "",
-            "PopBtnName": "",
-            "adsClick": ""
-        },
-        {
-            "seriesName": "بدم بارد ",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_6c3bb604f8c9adb99efc6f4e019aec5428229a34e738cc01692bd25b59dda782.jpg",
-            "description": " في إطار من الغموض والتشويق، يلتقي كرم بديالا على الكورنيش ويكتشف لاحقا أنها مقتولة منذ سنوات، ليدخل في دوامة معقدة من الصراعات التي لا تنتهي.",
-            "timeShow": [],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة لنا السورية",
+                    "channelLogo": "https://www.raya.ps/cached_uploads/crop2/972/558/2022/04/06/kndja-1649200649.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "11:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -342,4 +233,3 @@
         }
     ]
 }
-           

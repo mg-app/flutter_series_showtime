@@ -2,17 +2,24 @@
     "series_data": [
         {
             "seriesName": "وديمة وحليمة ج4",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_320x_1fda6b8c1e9366982079fde7dcd7c9a1360a18b4957551beb99d80df5a354c10.jpg",
+            "seriesImage": "https://archive.org/download/maxresdefault-2025-03-03T090023.795-800x600/__ia_thumb.jpg",
             "description": " يستكمل الخلافات التي تتم بين وديمة وجارتها حليمة بطريقة كوميدية ممتعة.",
             "timeShow": [
                 {
                     "channelName": "قناة سما دبي",
                     "channelLogo": "https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg",
                     "urlAction": "",
-                    "time": ""
+                    "time": "4:40 مساء"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة سما دبي",
+                    "channelLogo": "https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "12:30 بعد منتصف الليل"
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -23,44 +30,50 @@
         },
         {
             "seriesName": "وطن عمري",
-            "seriesImage": "https://www.albayan.ae/assets/images/2025/01/12/4642172.jpg",
+            "seriesImage": "https://archive.org/download/10-e-493d-31-1/__ia_thumb.jpg",
             "description": " في إطار العلاقات الإنسانية المتشابكة بين الشخصيات الرئيسية في المسلسل.",
             "timeShow": [
                 {
                     "channelName": "قنوات دبي للإعلام",
                     "channelLogo": "https://www.emaratalyoum.com/polopoly_fs/1.777702.1462430489!/image/image.jpg",
                     "urlAction": "",
-                    "time": "pm"
+                    "time": "8 مساء"
                 }
             ],
-         "replayShow": [],
-         "BannerImage": "",
+            "replayShow": [
+                {
+                    "channelName": "قنوات دبي للإعلام",
+                    "channelLogo": "https://www.emaratalyoum.com/polopoly_fs/1.777702.1462430489!/image/image.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "10 صباحا"
+                }
+            ],
+            "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
             "PopClick": "",
             "PopDes": "",
             "PopBtnName": "",
-            "adsClick": ""   
-
+            "adsClick": ""
         },
         {
             "seriesName": "دنون",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_320x_46ca715f6db5746423eb43400d53041c8bc61320f85dfee1dadc3ddcc354d62e.jpg",
+            "seriesImage": "https://archive.org/download/hqdefault-3_202503/__ia_thumb.jpg",
             "description": "واحد من أبرز الأعمال على قائمة مسلسلات إماراتية رمضان 2025، وهو مسلسل كوميدي يضم مجموعة من أبرز النجوم ",
             "timeShow": [
                 {
                     "channelName": "قناة سما دبي",
                     "channelLogo": "https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg",
                     "urlAction": "",
-                    "time": ""
+                    "time": "8 مساء"
                 }
             ],
             "replayShow": [
                 {
-                    "channelName": "روتانا",
-                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/7/77/Rotana-logo.png",
+                    "channelName": "قناة سما دبي",
+                    "channelLogo": "https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg",
                     "urlAction": "https://www.google.com",
-                    "time": "2 pm"
+                    "time": "1 صباحا"
                 }
             ],
             "BannerImage": "",
@@ -73,22 +86,22 @@
         },
         {
             "seriesName": "شغاب",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_663e4bafd1310a83553369c3f0d83f62cf017c83d8a1c899086d627e9eece82d.jpg",
+            "seriesImage": "https://archive.org/download/320x-49eb-6d-129778af-6d-835bc-360d-8d-79f-61fb-57009e-609ed-8d-38e-84de-448fb-28f-3d/__ia_thumb.jpg",
             "description": "في إطار درامي تاريخي اجتماعي قبل نحو 120 عامًا، حيث تبدأ الأحداث بمزاد علني على قرط تراثي يحمل أسرارًا كثيرة ستتناولها أحداث المسلسل",
             "timeShow": [
                 {
                     "channelName": "شبكة قنوات أبوظبي",
                     "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abu_Dhabi_TV.png",
                     "urlAction": "https://www.google.com",
-                    "time": "  9:30 pm"
+                    "time": "  9 مساء"
                 }
             ],
             "replayShow": [
                 {
-                    "channelName": " قناة",
-                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MBC_MASR_2.jpg/280px-MBC_MASR_2.jpg",
+                    "channelName": "شبكة قنوات أبوظبي",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abu_Dhabi_TV.png",
                     "urlAction": "https://www.google.com",
-                    "time": "1:30 am"
+                    "time": "   12:00 ظهرًا"
                 }
             ],
             "BannerImage": "",
@@ -101,10 +114,24 @@
         },
         {
             "seriesName": "وش سعد",
-            "seriesImage": "https://media.elbalad.news/ArticleUpload/2025/1/25/IMG-20250125-WA0121_867_090844.jpg",
+            "seriesImage": "https://archive.org/download/174064711039021dc-0cc/__ia_thumb.jpg",
             "description": "في إطار قصة درامية اجتماعية ذات طابع كوميدي تدور أحداث قصة مسلسل وش سعد حول رجل إماراتي يأتي إلى مصر من أجل إنهاء بعض الأعمال وهو مسلسل مصري إماراتي",
-            "timeShow": [],
-            "replayShow": [],
+            "timeShow": [
+                {
+                    "channelName": "قناة الظفرة",
+                    "channelLogo": "https://pbs.twimg.com/profile_images/1605125341516808192/Yoet8A2r_400x400.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "6:30 مساء "
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة الظفرة",
+                    "channelLogo": "https://pbs.twimg.com/profile_images/1605125341516808192/Yoet8A2r_400x400.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "9:00 صباحا "
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -115,10 +142,24 @@
         },
         {
             "seriesName": "الباء تحتها نقطة ",
-            "seriesImage": "https://mediaaws.almasryalyoum.com/news/medium/2024/12/02/2548219_0.png",
+            "seriesImage": "https://archive.org/download/alba-thth-nqtt/__ia_thumb.jpg",
             "description": " في إطار دراما كوميدية تستعرض قصة مسلسل الباء تحتها نقطة قضية محو الأمية في الإمارات التي تمت تحت قيادة الشيخ زايد بن سلطان آل نهيان بأواخر الستينيات وحتى أوائل السبعينيات من القرن الماضي",
-            "timeShow": [],
-            "replayShow": [],
+            "timeShow": [
+                {
+                    "channelName": "قناة الإمارات",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dubai_elemarat.png",
+                    "urlAction": "https://www.google.com",
+                    "time": " 7:15 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة الإمارات",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dubai_elemarat.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "   1 صباحا"
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -129,17 +170,24 @@
         },
         {
             "seriesName": "السيرك ",
-            "seriesImage": "https://media0067.elcinema.com/uploads/_315x420_20e1a06195e61eb502160cb4000020241ff71d6260521c30720eaedc5ede3995.jpg",
+            "seriesImage": "https://archive.org/download/73fb-2d-98-1/__ia_thumb.jpg",
             "description": " تاح الفرصة لمجموعة من السجناء لقضاء عقوبتهم من خلال القيام بأعمال الخدمة الاجتماعية داخل سيرك محلي عوضاً عن السجن من أجل إسعاد الناس، فتدور بينهم العديد من المواقف والمفارقات الطريفة أثناء عملهم فيه.",
             "timeShow": [
                 {
                     "channelName": "قناة SBC الفضائية  ",
                     "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SBC_TV.png ",
                     "urlAction": "https://www.google.com",
-                    "time": "  pm"
+                    "time": " 7:00 مساء"
                 }
             ],
-            "replayShow": [],
+            "replayShow": [
+                {
+                    "channelName": "قناة SBC الفضائية  ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SBC_TV.png ",
+                    "urlAction": "https://www.google.com",
+                    "time": "   1 صباحا"
+                }
+            ],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",

@@ -1,0 +1,203 @@
+{
+    "series_data": [
+        {
+            "seriesName": " كتيب عائلة",
+            "seriesImage": "https://archive.org/download/320x-4f-5c-99f-672b-2fdf-5e-383636d-37f-8fcd-918b-4b-527add-641d-00e-772c-35f-42b-506c/__ia_thumb.jpg",
+            "description": " في إطار كوميدي تتعرض إحدى العائلات للوقوع في العديد من المواقف والمفارقات غير المحسوبة",
+            "timeShow": [
+                {
+                    "channelName": "قناة ليبيا الأحرار",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/c/ca/Libya_Alhurra2.png",
+                    "urlAction": "",
+                    "time": "10:00 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة ليبيا الأحرار",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/c/ca/Libya_Alhurra2.png",
+                    "urlAction": "",
+                    "time": "10:00 مساء"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "أعراض انسحاب",
+            "seriesImage": "https://archive.org/download/315x-420-daef-367ff-5ffcf-9f-3d-3e-127234ed-37ae-5d-66e-42ee-994ec-59fd-6dfb-9843bfeb-07/__ia_thumb.jpg",
+            "description": "في إطار الكوميديا السوداء تدول أحداث المسلسل حول مجموعة من الشباب داخل مركز طبي يواجهون العديد من المفارقات",
+            "timeShow": [
+                {
+                    "channelName": "قناة لبددة tv",
+                    "channelLogo": " https://ksa-tech.com/wp-content/uploads/2024/07/878.jpg",
+                    "urlAction": "",
+                    "time": "7:15 مساء"
+                }
+            ],
+            "replayShow": [
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "ديربي",
+            "seriesImage": "https://archive.org/download/2025-1740906549890-highres/__ia_thumb.jpg",
+            "description": "تدور الأحداث حول عائلة كبيرة، حيث تحدث بينهم العديد من المواقف اليومية التي تُدخلهم في صراعات ومشكلات مختلفة، والتي تنشأ عادةً بسبب الخلافات بين الزوجة وأم الزوج، والذي يحاول دائمًا التدخل لفض النزاعات بينهما",
+            "timeShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0070.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "8:00 مساء"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "وين عريسك جا",
+            "seriesImage": "https://archive.org/download/1740747385437-g-wwpf/__ia_thumb.jpg",
+            "description": "تعمل أحلام مخترقة للهواتف المحمولة حيث تلجأ لها السيدات لمساعدتهن للكشف عن خيانة أزواجهن، وبمرور الوقت تتكشف الحقائق وأن السبب الرئيسي لذلك هو كرهها للرجال.",
+            "timeShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  9:00 مساء"
+                }
+            ],
+            "replayShow": [
+              
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "النجدين 2",
+            "seriesImage": "https://archive.org/download/1740745682769-ab-vb-i/__ia_thumb.jpg",
+            "description": "في إطار درامي مشوق وواقعي ",
+            "timeShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": " 12:00 بعد منتصف الليل"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "مستقبل زاهر ",
+            "seriesImage": "https://archive.org/download/hq-720-29/__ia_thumb.jpg",
+            "description": "من خلال قصة الطفل زاهر تتناول الأحداث مستقبل الشارع الليبي، والمشاكل والتدهورات التي تحدث في البلاد، وكيف سيتمكن أبناء الوطن من إعادة إعمارها لضمان مستقبل مشرق لهم.",
+            "timeShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": " 8:00 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "12:00 ظهرا"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "نجمة وخواتها",
+            "seriesImage": "https://archive.org/download/najma-w-khawatuha-2025-ram/__ia_thumb.jpg",
+            "description": "في إطار كوميدي تتناول الأحداث يوميات نجمة وأخواتها، وما يتعرضن له من مواقف اجتماعية",
+            "timeShow": [
+                {
+                    "channelName": "قناة الوسط اليبية ",
+                    "channelLogo": "https://shms.ps/uploads/images/2023/08/ocUfK.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "10:00 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة سلام الليبية ",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1360_1.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "2:30 صباحا"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "شط الحرية 7 ",
+            "seriesImage": "https://archive.org/download/020-25/__ia_thumb.jpg",
+            "description": "دراما كوميدية تسخر من الواقع اليومي الليبي، وما يحدث في المناطق البدوية.",
+            "timeShow": [
+                {
+                    "channelName": "قناة تلفزيون المسار",
+                    "channelLogo": "https://almasartv.ly/wp-content/uploads/2021/12/XUJoi_Yg_400x400.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": " 7:20 مساءً"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة تلفزيون المسار",
+                    "channelLogo": "https://almasartv.ly/wp-content/uploads/2021/12/XUJoi_Yg_400x400.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "3:00 صباحاً"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        }
+    ]
+}

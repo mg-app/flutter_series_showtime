@@ -19,7 +19,47 @@
 "category": "مسلسلات عراقية",
 "jsonName": "https://mg-app.github.io/flutter_series_showtime/iraqiSeries.json",
 "image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
-}
+},
+{
+"category": "مسلسلات كوتية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Kuwait_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات إردنية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Jordanian_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات لبنانية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Lebanese_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات ليبية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Libyan_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات مغربية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Moroccan_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات قطرية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Qatari_channels.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات سعودية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Saudi_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+},
+{
+"category": "مسلسلات تونسية",
+"jsonName": "https://mg-app.github.io/flutter_series_showtime/Tunisian_series.json",
+"image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"
+}     
   
 
 ]

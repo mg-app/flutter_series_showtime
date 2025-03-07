@@ -1,0 +1,87 @@
+{
+    "series_data": [
+        {
+            "seriesName": "بالدم",
+            "seriesImage": "https://archive.org/download/1-1781496/__ia_thumb.jpg",
+            "description": "بعد مرور 45 عامًا، تكتشف غالية سرًا خطيرًا عن عائلتها وميلادها، يدفعها للبحث عن الحقيقة الغامضة حول هويتها الفعلية",
+            "timeShow": [
+                {
+                    "channelName": "MTV اللبنانية قناة",
+                    "channelLogo": "https://shms.ps/uploads/images/2023/03/1gjor.jpg",
+                    "urlAction": "",
+                    "time": "8:45 مساء"
+                }
+            ],
+            "replayShow": [
+                 {
+                    "channelName": "MTV اللبنانية قناة",
+                    "channelLogo": "https://shms.ps/uploads/images/2023/03/1gjor.jpg",
+                    "urlAction": "",
+                    "time": "8:45 مساء"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "نفس",
+            "seriesImage": "https://archive.org/download/a951d83ef9a074e4bf8922409fc23efc/__ia_thumb.jpg",
+            "description": "حمل العمل طابعًا دراميًا ورومانسيًا، حيث يروي قصة حب تواجه تحديات كبيرة بسبب التقاليد والعادات، وسط أجواء مشوقة تجذب المشاهد",
+            "timeShow": [
+                {
+                    "channelName": "قناة الجديد  ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",
+                    "urlAction": "",
+                    "time": "9:30 مساء"
+                }
+            ],
+            "replayShow": [
+                 {
+                    "channelName": "قناة الجديد  ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",
+                    "urlAction": "",
+                    "time": "9:30 مساء"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "تحت الأرض",
+            "seriesImage": "https://archive.org/download/maxresdefault-38/__ia_thumb.jpg",
+            "description": "من المسلسلات اللبنانية التاريخية التي تتناول أحداثًا مهمة من الماضي، حيث يسلط الضوء على الفساد والجريمة في بيروت ودمشق خلال عام 1900.",
+            "timeShow": [
+                {
+                    "channelName": "قناة LBCI   ",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/3/35/Lbc-mail.jpg",
+                    "urlAction": "",
+                    "time": "  pm"
+                },
+                {
+                    "channelName": "  قناة",
+                    "channelLogo": "https:// ",
+                    "urlAction": "",
+                    "time": " 8:00 مساء"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "series_data": [
+        {
+            "seriesName": "وادي الباي",
+            "seriesImage": "https://archive.org/download/5a-133fa-4c-97f-8e-64552b-4910fa-4fbb-3e-xl/__ia_thumb.jpg",
+            "description": " في إطار تاريخي، تتبع أحداث المسلسل قصة عائلتين تونسيتين في ثلاثينيات القرن الماضي أثناء تصارعهما على الاستحواذ على بعض الممتلكات",
+            "timeShow": [
+                {
+                    "channelName": "قناة التونسية الوطنية 1",
+                    "channelLogo": "https://media0067.elcinema.com/tvguide/1308_1.png",
+                    "urlAction": "",
+                    "time": "يُرض ١٦ رمضان"
+                }
+            ],
+            "replayShow": [
+               
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "الفتنة",
+            "seriesImage": "https://archive.org/download/1741109660782209-0/__ia_thumb.jpg",
+            "description": "من خلال قضايا اجتماعية عديدة يستعرض المسلسل تشابكات العلاقات الأسرية، وصراعات الميراث، والأسباب التي كانت دافعًا لاشتعال نيران الانتقام بين أفراد الأسرة الواحدة",
+            "timeShow": [
+                {
+                    "channelName": "قناة الحوار التونسي",
+                    "channelLogo": "https://haica.tn/wp-content/uploads/2019/12/elhiwar-ettounsi-tv.jpg",
+                    "urlAction": "https://www.google.com",
+                    "time": "8:00 مساء"
+                }
+            ],
+            "replayShow": [],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "رفوج ج2",
+            "seriesImage": "https://archive.org/download/ivixybvqz2wjcxkbggkp/__ia_thumb.jpg",
+            "description": "في الموسم الثاني، وفي إطار من الكوميديا السوداء والدراما الاجتماعية، يسلط المسلسل الضوء على مشاكل السلطة، الإعلام، والتحديات التي يواجهها المواطنون في حياتهم اليومية والعنف الرمزي ضد النساء وغيرها.",
+            "timeShow": [
+                {
+                    "channelName": "قناة نسمة الجديدة",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nessma_El_Jadida_Logo.png/228px-Nessma_El_Jadida_Logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "  7:30 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "قناة نسمة الجديدة",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nessma_El_Jadida_Logo.png/228px-Nessma_El_Jadida_Logo.png",
+                    "urlAction": "https://www.google.com",
+                    "time": "1:30 am"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        }
+    ]
+}

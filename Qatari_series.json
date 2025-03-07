@@ -1,0 +1,60 @@
+{
+    "series_data": [
+        {
+            "seriesName": "سيوف العرب",
+            "seriesImage": "https://archive.org/download/20250305_20250305_2330/__ia_thumb.jpg",
+            "description": "تدور أحداث المسلسل بين عصر الجاهلية وبداية الخلافة الأموية، ويقدم تاريخ السيف العربي، من خلال توثيق أبرز المحطات التي مر بها العرب عبر العصور",
+            "timeShow": [
+                {
+                    "channelName": "تلفزيون قطر",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/f/f2/Qtv.jpg",
+                    "urlAction": "",
+                    "time": "10:00 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "تلفزيون قطر",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/f/f2/Qtv.jpg",
+                    "urlAction": "",
+                    "time": "2:00 ظهرا"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        },
+        {
+            "seriesName": "في لحظة",
+            "seriesImage": "https://archive.org/download/320x-bda-079d-14612744185c-892d-619fc-056d-3f-122678b-85e-27cd-9c-67c-6c-5582386e-3/__ia_thumb.jpg",
+            "description": "تحاول (فريدة) التماسك ومواصلة حياتها بصورة طبيعية بعد وفاة والدها بطريقة غامضة، بينما تسعى لحماية شقيقاتها من مصير مجهول، لكن تنقلب حياتها رأسًا على عقب مع ظهور (سيف) رجل الأعمال البارز، باعتباره فرصة ثمينة للتخلص من جميع مشاكلهن، وتتوالى الأحداث",
+            "timeShow": [
+                {
+                    "channelName": "تلفزيون قطر",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/f/f2/Qtv.jpg",
+                    "urlAction": "",
+                    "time": "7:40 مساء"
+                }
+            ],
+            "replayShow": [
+                {
+                    "channelName": "تلفزيون قطر",
+                    "channelLogo": "https://upload.wikimedia.org/wikipedia/ar/f/f2/Qtv.jpg",
+                    "urlAction": "",
+                    "time": "12:30 ظهرا"
+                }
+            ],
+            "BannerImage": "",
+            "PopImage": "",
+            "BannerClick": "",
+            "PopClick": "",
+            "PopDes": "",
+            "PopBtnName": "",
+            "adsClick": ""
+        }
+    ]
+}

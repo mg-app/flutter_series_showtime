@@ -63,7 +63,7 @@
                 }
             ],
             "filmOrSeries":"series",
-            "episode":["https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/d5036cabf11e45bf9d0db410ca135c18\/index.m3u8"],
+            "episode":["https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/d5036cabf11e45bf9d0db410ca135c18\/index.m3u8","https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/d5036cabf11e45bf9d0db410ca135c18\/index.m3u8","https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/d5036cabf11e45bf9d0db410ca135c18\/index.m3u8","https:\/\/shls-masr-prod-dub.shahid.net\/out\/v1\/d5036cabf11e45bf9d0db410ca135c18\/index.m3u8"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",

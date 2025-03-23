@@ -105,7 +105,7 @@
                 }
             ],
             "filmOrSeries":"film",
-            "episode":[],
+            "episode":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -135,7 +135,7 @@
                 }
             ],
             "filmOrSeries":"film",
-            "episode":[],
+            "episode":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",

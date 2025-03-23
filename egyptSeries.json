@@ -165,7 +165,7 @@
                 }
             ],
             "filmOrSeries":"film",
-            "episode":[],
+            "episode":["http:\/\/154.197.91.168:7001\/play\/a0fn\/index.m3u8"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",

@@ -20,6 +20,8 @@
                     "time": "12:00 ظهراً"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":["https://ru1.elahmad.com/tv712_www.elahmad.com_safatv/tracks-v1a1/mono.m3u8?token=54873d123d51e0b125ca9dfa25e11baa99b2f11e-c355b17fef51a4230ca156c1c900e8a3-1732546663-1732535863"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -60,6 +62,8 @@
                     "time": " 5:00 صباحاً"
                 }
             ],
+            "filmOrSeries":"series",
+            "episode":["https://ru1.elahmad.com/tv712_www.elahmad.com_safatv/tracks-v1a1/mono.m3u8?token=54873d123d51e0b125ca9dfa25e11baa99b2f11e-c355b17fef51a4230ca156c1c900e8a3-1732546663-1732535863"],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -100,6 +104,8 @@
                     "time": "2:30 صباحا "
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -128,6 +134,8 @@
                     "time": "1:30 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -156,6 +164,8 @@
                     "time": "3 عصرًا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -184,6 +194,8 @@
                     "time": "1:30 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -212,6 +224,8 @@
                     "time": "8 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -233,6 +247,8 @@
                 }
             ],
             "replayShow": [],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -261,6 +277,8 @@
                     "time": "2:30 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -289,6 +307,8 @@
                     "time": "8 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -317,6 +337,8 @@
                     "time": "2:00 ظهرًا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -345,6 +367,8 @@
                     "time": "1.30 صباحاً"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -373,6 +397,8 @@
                     "time": " 6.15 صباحا "
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -407,6 +433,8 @@
                     "time": " "
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -435,6 +463,8 @@
                     "time": "1:15 مساءً"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -475,6 +505,8 @@
                     "time": "5.30 صباحاً"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -503,6 +535,8 @@
                     "time": "10:30 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -531,6 +565,8 @@
                     "time": "12 بعد منتصف الليل"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -559,6 +595,8 @@
                     "time": "11 مساء"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -579,6 +617,8 @@
                     "time": "  pm"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
@@ -606,6 +646,8 @@
                     "time": "  pm"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
@@ -627,6 +669,8 @@
                     "time": "  pm"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
@@ -648,6 +692,8 @@
                     "time": "  pm"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "replayShow": [],
             "BannerImage": "",
             "PopImage": "",
@@ -677,6 +723,8 @@
                     "time": "5:00 مساء"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -710,6 +758,8 @@
                 }
             ],
             "replayShow": [],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -731,6 +781,8 @@
                 }
             ],
             "replayShow": [],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -752,6 +804,8 @@
                 }
             ],
             "replayShow": [],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -780,6 +834,8 @@
                     "time": "1:30 صباحا"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
@@ -808,6 +864,8 @@
                     "time": "3 عصراً"
                 }
             ],
+            "filmOrSeries":"film",
+            "episode":[],
             "BannerImage": "",
             "PopImage": "",
             "BannerClick": "",
